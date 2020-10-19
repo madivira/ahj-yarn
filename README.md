@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/canx1k9av8qmwy5k?svg=true)](https://ci.appveyor.com/project/madivira/ahj-yard)
